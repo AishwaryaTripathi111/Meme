@@ -1,0 +1,28 @@
+
+  * {
+    background-color: black;
+    }
+
+  .lisamona {
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: "Lora", serif;
+    text-align: center;
+    }
+
+  #note {
+    border: solid white;
+    border-width: 10px 10px;
+  }
+
+  h1 {
+    color: white;
+    text-transform: uppercase;
+     }
+
+  p {
+    color: white;
+    font-size: 20pt
+    }
